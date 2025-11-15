@@ -1,2 +1,3 @@
 # Pemrograman-Mobile
-Tugas
+
+Tugas pemrograman mobile menggunakan Flutter
